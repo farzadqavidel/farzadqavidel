@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on [Access To Free Internet](https://github.com/Farzad-Ghavidel/v2ray_config)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">mailto:farzadghavidel.2007@gmail.com
+<p align="left">
+  <a href="mailto:farzadghavidel.2007@gmail.com">Email</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
