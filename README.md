@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://youtube.com/@farzadghavidelll" target="blank">
+  <a href="https://youtube.com/@farzadghavidelll" target="_blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg"
       alt="YouTube"
       height="30"
       width="40" />
@@ -15,7 +15,7 @@
 
   <a href="mailto:farzadghavidel.2007@gmail.com">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
       alt="Email"
       height="30"
       width="40" />
