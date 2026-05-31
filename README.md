@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farzad</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [Access To Free Internet](https://github.com/Farzad-Ghavidel/v2ray_config)
-
 - 📫 How to reach me **f@qavidel.com**
 
 <h3 align="left">Connect with me:</h3>
