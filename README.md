@@ -1,10 +1,9 @@
-<h2 align="left">Hi 👋! My name is Farzad and I'm a passionate developer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Farzad and I'm a passionate developer</h2>
 
 ###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/farzadqavidel/farzadqavidel/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/farzadqavidel/farzadqavidel/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
