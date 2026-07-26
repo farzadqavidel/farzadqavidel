@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farzadqavidel&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farzadqavidel&layout=compact&theme=dracula&hide_border=true" height="150" alt="top languages" />
 </div>
 
 ###
