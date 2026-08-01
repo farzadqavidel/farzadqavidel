@@ -1,45 +1,17 @@
-name: Update profile art
-
-# Refreshes the contribution graph SVG daily from real data.
-# Runs daily, plus on push to main, plus on-demand via Actions tab.
+name: Profile Workflow
 
 on:
-  schedule:
-    - cron: "17 6 * * *" # ~06:17 UTC every day
-  workflow_dispatch: {}
   push:
-    branches: [main]
-
-permissions:
-  contents: write
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
-  heatmap:
+  success:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
-
-      - name: Scrape real contribution data (no auth needed)
-        env:
-          GH_PROFILE_USER: farzadqavidel
-        run: python scripts/fetch_contributions.py
-
-      - name: Render animated contribution graph SVG (classic + streak)
+      - name: Done
         run: |
-          python scripts/render_heatmap_svg.py
-          # optional: also render the flash animation variant (overwrites same file)
-          # if you prefer the flash-pop style, use this instead:
-          # python scripts/generate_streak_svg.py farzadqavidel contrib-heatmap.svg
-
-      - name: Commit updated art
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          echo "Workflow executed successfully."
+          echo "Nothing to do."
