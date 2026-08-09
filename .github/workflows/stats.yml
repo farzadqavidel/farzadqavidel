@@ -2,8 +2,8 @@ name: Update README stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *"   
+  workflow_dispatch:    
 
 permissions:
   contents: write
@@ -13,13 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Generate GitHub stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit SVG
         run: |
           git config user.name "github-actions"
