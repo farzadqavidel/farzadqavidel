@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="334" viewBox="0 0 495 334" fill="none">
+<rect x="0.5" y="0.5" rx="14" ry="14" width="494" height="333" fill="#282a36"/>
+<text x="25" y="42" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f8f8f2">Farzad Qavidel's GitHub Stats</text>
+<circle cx="30" cy="78" r="6" fill="#ff79c6"/>
+<text x="48" y="84" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ff79c6">Total Stars Earned</text>
+<text x="470" y="84" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8f8f2" text-anchor="end">2</text>
+<circle cx="30" cy="116" r="6" fill="#f1fa8c"/>
+<text x="48" y="122" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#f1fa8c">Total Commits (2026)</text>
+<text x="470" y="122" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8f8f2" text-anchor="end">920</text>
+<circle cx="30" cy="154" r="6" fill="#8be9fd"/>
+<text x="48" y="160" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8be9fd">Followers</text>
+<text x="470" y="160" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8f8f2" text-anchor="end">1</text>
+<circle cx="30" cy="192" r="6" fill="#50fa7b"/>
+<text x="48" y="198" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#50fa7b">Following</text>
+<text x="470" y="198" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8f8f2" text-anchor="end">3</text>
+<circle cx="30" cy="230" r="6" fill="#bd93f9"/>
+<text x="48" y="236" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#bd93f9">Public Repos</text>
+<text x="470" y="236" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8f8f2" text-anchor="end">2</text>
+<circle cx="30" cy="268" r="6" fill="#ffb86c"/>
+<text x="48" y="274" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ffb86c">Top Language</text>
+<text x="470" y="274" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8f8f2" text-anchor="end">Python</text>
+</svg>
