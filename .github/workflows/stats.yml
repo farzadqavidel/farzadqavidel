@@ -3,7 +3,7 @@ name: Update README stats
 on:
   schedule:
     - cron: "0 3 * * *"   
-  workflow_dispatch:    
+  workflow_dispatch:   
 
 permissions:
   contents: write
@@ -14,13 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.x"
+
+      - name: Generate stats SVG
+        env:
+          USERNAME: ${{ github.repository_owner }}
+        run: python3 generate_stats.py
 
       - name: Commit SVG
         run: |
