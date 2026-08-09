@@ -5,7 +5,7 @@
 <td valign="top"><img src="./.github/workflows/farzad-ascii-hd.svg" width="370" alt="ASCII portrait of Farzad" /></td>
 <td valign="top" align="center">
 <br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farzadqavidel&show_icons=true&theme=dracula&hide_border=true" alt="stats graph" />
+<img src="./profile/stats.svg" alt="stats graph" />
 <br><br>
 <a href="https://www.linkedin.com/in/f-qavidel/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:f@qavidel.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
