@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""Generate a GitHub-stats SVG card (dracula theme) without any 3rd-party action.
+Usage: python3 generate_stats.py [username]
+Writes: profile/stats.svg
+"""
 import json
 import os
 import sys
@@ -7,6 +12,9 @@ import urllib.request
 USERNAME = os.environ.get("USERNAME") or (sys.argv[1] if len(sys.argv) > 1 else "farzadqavidel")
 API = "https://api.github.com"
 HEADERS = {"Accept": "application/vnd.github+json", "User-Agent": "stats-card"}
+TOKEN = os.environ.get("GITHUB_TOKEN")
+if TOKEN:
+    HEADERS["Authorization"] = f"Bearer {TOKEN}"
 
 
 def get(url):
