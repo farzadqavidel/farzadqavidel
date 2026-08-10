@@ -2,10 +2,10 @@ name: Update README stats
 
 on:
   push:
-    branches: [main] # با هر کامیت به main خودکار اجرا می‌شه
+    branches: [main]          # با هر کامیت به main خودکار اجرا می‌شه
   schedule:
-    - cron: "0 3 * * *" # هر روز ساعت ۰۳:۰۰ UTC آپدیت می‌شه
-  workflow_dispatch: # اجرای دستی از تب Actions
+    - cron: "0 3 * * *"       # هر روز ساعت ۰۳:۰۰ UTC آپدیت می‌شه
+  workflow_dispatch:          # اجرای دستی از تب Actions
 
 permissions:
   contents: write
@@ -33,4 +33,4 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update GitHub stats card [skip ci]" || exit 0
-          git push
+          git push origin HEAD:main
