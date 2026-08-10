@@ -2,10 +2,10 @@ name: Update README stats
 
 on:
   push:
-    branches: [main]          # با هر کامیت به main خودکار اجرا می‌شه
+    branches: [main]
   schedule:
-    - cron: "0 3 * * *"       # هر روز ساعت ۰۳:۰۰ UTC آپدیت می‌شه
-  workflow_dispatch:          # اجرای دستی از تب Actions
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write

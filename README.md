@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./.github/workflows/farzad-ascii-hd.svg" width="370" alt="ASCII portrait of Farzad" /></td>
+<td valign="top"><img src="./profile/ascii.svg" width="370" alt="ASCII portrait of Farzad" /></td>
 <td valign="top" align="center">
 <br>
 <img src="./profile/stats.svg" alt="stats graph" />

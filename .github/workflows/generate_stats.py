@@ -1,15 +1,11 @@
-
-"""Generate a GitHub-stats SVG card (dracula theme, vector icons) with no 3rd-party action.
-Usage: python3 generate_stats.py [username]
-Writes: profile/stats.svg
-"""
 import json
 import os
 import sys
 import datetime
 import urllib.request
 
-USERNAME = os.environ.get("USERNAME") or (sys.argv[1] if len(sys.argv) > 1 else "farzadqavidel")
+USERNAME = os.environ.get("USERNAME") or (
+    sys.argv[1] if len(sys.argv) > 1 else "farzadqavidel")
 API = "https://api.github.com"
 HEADERS = {"Accept": "application/vnd.github+json", "User-Agent": "stats-card"}
 TOKEN = os.environ.get("GITHUB_TOKEN")
@@ -58,7 +54,7 @@ top_lang = max(langs, key=langs.get) if langs else "—"
 year = datetime.date.today().year
 commits = "N/A"
 try:
-    cu = f"https://github-contributions-api.jogruber.de/v4/{USERNAME}?y={year}"
+    cu = f"https://github-contributions-api.jogruber.de/v4/{USERNAME}?y=last"
     data = get(cu)
     contributions = data.get("contributions", [])
     commits = sum(c.get("count", 0) for c in contributions)
@@ -89,7 +85,8 @@ def icon_svg(key, x, y, size, color):
 # ---- rows: (icon, color, label, value) ----
 rows = [
     ("star",      "#ff79c6", "Total Stars Earned", f"{total_stars:,}"),
-    ("commit",    "#f1fa8c", f"Total Commits ({year})", f"{commits:,}" if isinstance(commits, int) else commits),
+    ("commit",    "#f1fa8c", "Total Commits",
+     f"{commits:,}" if isinstance(commits, int) else commits),
     ("followers", "#8be9fd", "Followers", f"{followers:,}"),
     ("following", "#50fa7b", "Following", f"{following:,}"),
     ("repo",      "#bd93f9", "Public Repos", f"{public_repos:,}"),
@@ -104,8 +101,10 @@ start_y = 82
 H = start_y + len(rows) * row_h + 16
 
 parts = []
-parts.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none">')
-parts.append(f'<rect x="0.5" y="0.5" rx="12" ry="12" width="{W-1}" height="{H-1}" fill="#282a36"/>')
+parts.append(
+    f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none">')
+parts.append(
+    f'<rect x="0.5" y="0.5" rx="12" ry="12" width="{W-1}" height="{H-1}" fill="#282a36"/>')
 
 # title
 parts.append(
