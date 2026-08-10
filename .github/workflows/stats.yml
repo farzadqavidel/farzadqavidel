@@ -2,10 +2,10 @@ name: Update README stats
 
 on:
   push:
-    branches: [main]
+    branches: [main] # با هر کامیت به main خودکار اجرا می‌شه
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *" # هر روز ساعت ۰۳:۰۰ UTC آپدیت می‌شه
+  workflow_dispatch: # اجرای دستی از تب Actions
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
         env:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 generate_stats.py
+        run: python3 .github/workflows/generate_stats.py
 
       - name: Commit SVG
         run: |
