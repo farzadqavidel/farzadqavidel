@@ -1,17 +1,38 @@
 <div align="center">
 
 <table>
-<tr>
-<td valign="top"><img src="./profile/ascii.svg" width="370" alt="ASCII portrait of Farzad" /></td>
-<td valign="top" align="center">
-<br>
-<img src="./profile/stats.svg" alt="stats graph" />
-<br><br>
-<a href="https://www.linkedin.com/in/f-qavidel/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:f@qavidel.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" /></a>
-</td>
-</tr>
+  <tr>
+    <td align="center" valign="top">
+      <img
+        src="./profile/ascii.svg"
+        height="380"
+        alt="ASCII portrait of Farzad Qavidel"
+      />
+    </td>
+    <td align="center" valign="top">
+      <img
+        src="./profile/stats.svg"
+        height="380"
+        alt="Farzad Qavidel's GitHub stats"
+      />
+    </td>
+  </tr>
 </table>
+
+<p>
+  <a href="https://www.linkedin.com/in/f-qavidel/">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:f@qavidel.com">
+    <img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      alt="Gmail"
+    />
+  </a>
+</p>
 
 </div>
 

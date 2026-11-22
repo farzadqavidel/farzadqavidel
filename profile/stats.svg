@@ -1,22 +1,116 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="302" viewBox="0 0 495 302" fill="none">
-<rect x="0.5" y="0.5" rx="12" ry="12" width="494" height="301" fill="#282a36"/>
-<text x="26" y="40" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f8f8f2">Farzad Qavidel's GitHub Stats</text>
-<svg x="26" y="69" width="18" height="18" viewBox="0 0 24 24" fill="#ff79c6" stroke="none"><path d="M12 2l2.9 6.1 6.6.9-4.8 4.7 1.2 6.6L12 17.8 6.1 20.3l1.2-6.6L2.5 9l6.6-.9z"/></svg>
-<text x="54" y="82" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f8f8f2">Total Stars Earned</text>
-<text x="469" y="82" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f8f8f2" text-anchor="end">3</text>
-<svg x="26" y="103" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#f1fa8c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><line x1="2" y1="12" x2="8" y2="12"/><line x1="16" y1="12" x2="22" y2="12"/></svg>
-<text x="54" y="116" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f8f8f2">Total Commits</text>
-<text x="469" y="116" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f8f8f2" text-anchor="end">2,859</text>
-<svg x="26" y="137" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#8be9fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-<text x="54" y="150" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f8f8f2">Followers</text>
-<text x="469" y="150" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f8f8f2" text-anchor="end">2</text>
-<svg x="26" y="171" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#50fa7b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-<text x="54" y="184" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f8f8f2">Following</text>
-<text x="469" y="184" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f8f8f2" text-anchor="end">5</text>
-<svg x="26" y="205" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#bd93f9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
-<text x="54" y="218" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f8f8f2">Public Repos</text>
-<text x="469" y="218" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f8f8f2" text-anchor="end">3</text>
-<svg x="26" y="239" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#ffb86c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
-<text x="54" y="252" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#f8f8f2">Top Language</text>
-<text x="469" y="252" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f8f8f2" text-anchor="end">JavaScript</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="402" viewBox="0 0 800 804" fill="none" role="img" aria-labelledby="stats-title stats-desc">
+<title id="stats-title">Farzad Qavidel — GitHub overview</title>
+<desc id="stats-desc">2,875 GitHub contributions from 2025-11-23 through 2026-11-22; 3 stars, 3 public repositories, 2 followers, 5 following. Top language by bytes in owned, non-fork public repositories: JavaScript, 93.7%. Contributions include more than commits. Each bar represents up to seven days.</desc>
+<defs><linearGradient id="stats-bg" x1="0" y1="0" x2="800" y2="804" gradientUnits="userSpaceOnUse"><stop stop-color="#101b27"/><stop offset=".48" stop-color="#0c131e"/><stop offset="1" stop-color="#101421"/></linearGradient>
+<linearGradient id="stats-border" x1="0" y1="0" x2="800" y2="804" gradientUnits="userSpaceOnUse"><stop stop-color="#405967"/><stop offset=".4" stop-color="#26374b"/><stop offset="1" stop-color="#30344b"/></linearGradient>
+<linearGradient id="stats-bars" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a7f3da"/><stop offset="1" stop-color="#54acac"/></linearGradient>
+<clipPath id="stats-language-clip"><rect x="116" y="806" width="620" height="4" rx="2"/></clipPath></defs>
+<rect x=".75" y=".75" width="798.5" height="802.5" rx="24" fill="url(#stats-bg)" stroke="url(#stats-border)" stroke-width="1.5"/>
+<path d="M1 56H799" stroke="#243143"/>
+<circle cx="29" cy="29" r="5" fill="#ed8b8b"/>
+<circle cx="49" cy="29" r="5" fill="#e7c68b"/>
+<circle cx="69" cy="29" r="5" fill="#89c7a5"/>
+<text x="96" y="34" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="400" fill="#9baabe" >github / overview</text>
+<text x="768" y="34" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="13" font-weight="400" fill="#65778f" text-anchor="end">stats.svg</text>
+<g id="stats-body" transform="translate(0 -44)">
+<text x="32" y="153" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="37" font-weight="650" fill="#edf3fa" >Farzad Qavidel</text>
+<text x="33" y="185" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="400" fill="#92a2b9" >@farzadqavidel</text>
+<rect x="661" y="124" width="107" height="37" rx="18.5" fill="#15232c" stroke="#2a464c"/>
+<g transform="translate(675 133) scale(0.75000)" fill="none" stroke="#8fe8cc" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="2.3"/><circle cx="6" cy="19" r="2.3"/><circle cx="18" cy="5" r="2.3"/><path d="M6 7.3v9.4M18 7.3A10 10 0 0 1 8 17"/></g>
+<text x="704" y="149" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="400" fill="#b6ded4" >main</text>
+<rect x="32" y="216" width="736" height="224" rx="18" fill="#101d29" stroke="#283b4b"/>
+<text x="56" y="252" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="500" fill="#9fbdc5" letter-spacing="1.8">CONTRIBUTIONS</text>
+<text x="744" y="252" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="13" font-weight="400" fill="#83adad" text-anchor="end" letter-spacing="1">LAST 365 DAYS</text>
+<text x="52" y="344" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="78" font-weight="600" fill="#e1fff3" letter-spacing="-3">2,875</text>
+<text x="56" y="376" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="400" fill="#a1b3c8" >A year of building.</text>
+<text x="56" y="413" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8498ae" >23 NOV 2025 — 22 NOV 2026</text>
+<path d="M389 378H744" stroke="#2b404e"/>
+<rect x="389.00" y="370.32" width="4.50" height="7.68" rx="1.5" fill="url(#stats-bars)"><title>2025-11-23 to 2025-11-29: 5 contributions</title></rect>
+<rect x="395.70" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2025-11-30 to 2025-12-06: 0 contributions</title></rect>
+<rect x="402.40" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2025-12-07 to 2025-12-13: 0 contributions</title></rect>
+<rect x="409.09" y="373.00" width="4.50" height="5.00" rx="1.5" fill="url(#stats-bars)"><title>2025-12-14 to 2025-12-20: 1 contributions</title></rect>
+<rect x="415.79" y="364.66" width="4.50" height="13.34" rx="1.5" fill="url(#stats-bars)"><title>2025-12-21 to 2025-12-27: 11 contributions</title></rect>
+<rect x="422.49" y="368.28" width="4.50" height="9.72" rx="1.5" fill="url(#stats-bars)"><title>2025-12-28 to 2026-01-03: 7 contributions</title></rect>
+<rect x="429.19" y="363.01" width="4.50" height="14.99" rx="1.5" fill="url(#stats-bars)"><title>2026-01-04 to 2026-01-10: 13 contributions</title></rect>
+<rect x="435.89" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-01-11 to 2026-01-17: 0 contributions</title></rect>
+<rect x="442.58" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-01-18 to 2026-01-24: 0 contributions</title></rect>
+<rect x="449.28" y="363.01" width="4.50" height="14.99" rx="1.5" fill="url(#stats-bars)"><title>2026-01-25 to 2026-01-31: 13 contributions</title></rect>
+<rect x="455.98" y="342.24" width="4.50" height="35.76" rx="1.5" fill="url(#stats-bars)"><title>2026-02-01 to 2026-02-07: 45 contributions</title></rect>
+<rect x="462.68" y="371.43" width="4.50" height="6.57" rx="1.5" fill="url(#stats-bars)"><title>2026-02-08 to 2026-02-14: 4 contributions</title></rect>
+<rect x="469.38" y="369.27" width="4.50" height="8.73" rx="1.5" fill="url(#stats-bars)"><title>2026-02-15 to 2026-02-21: 6 contributions</title></rect>
+<rect x="476.08" y="326.39" width="4.50" height="51.61" rx="1.5" fill="url(#stats-bars)"><title>2026-02-22 to 2026-02-28: 76 contributions</title></rect>
+<rect x="482.77" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-01 to 2026-03-07: 0 contributions</title></rect>
+<rect x="489.47" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-08 to 2026-03-14: 0 contributions</title></rect>
+<rect x="496.17" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-15 to 2026-03-21: 0 contributions</title></rect>
+<rect x="502.87" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-22 to 2026-03-28: 0 contributions</title></rect>
+<rect x="509.57" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-29 to 2026-04-04: 0 contributions</title></rect>
+<rect x="516.26" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-05 to 2026-04-11: 0 contributions</title></rect>
+<rect x="522.96" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-12 to 2026-04-18: 0 contributions</title></rect>
+<rect x="529.66" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-19 to 2026-04-25: 0 contributions</title></rect>
+<rect x="536.36" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-26 to 2026-05-02: 0 contributions</title></rect>
+<rect x="543.06" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-05-03 to 2026-05-09: 0 contributions</title></rect>
+<rect x="549.75" y="373.00" width="4.50" height="5.00" rx="1.5" fill="url(#stats-bars)"><title>2026-05-10 to 2026-05-16: 2 contributions</title></rect>
+<rect x="556.45" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-05-17 to 2026-05-23: 0 contributions</title></rect>
+<rect x="563.15" y="372.63" width="4.50" height="5.37" rx="1.5" fill="url(#stats-bars)"><title>2026-05-24 to 2026-05-30: 3 contributions</title></rect>
+<rect x="569.85" y="306.95" width="4.50" height="71.05" rx="1.5" fill="url(#stats-bars)"><title>2026-05-31 to 2026-06-06: 120 contributions</title></rect>
+<rect x="576.55" y="336.33" width="4.50" height="41.67" rx="1.5" fill="url(#stats-bars)"><title>2026-06-07 to 2026-06-13: 56 contributions</title></rect>
+<rect x="583.25" y="354.30" width="4.50" height="23.70" rx="1.5" fill="url(#stats-bars)"><title>2026-06-14 to 2026-06-20: 25 contributions</title></rect>
+<rect x="589.94" y="351.71" width="4.50" height="26.29" rx="1.5" fill="url(#stats-bars)"><title>2026-06-21 to 2026-06-27: 29 contributions</title></rect>
+<rect x="596.64" y="304.89" width="4.50" height="73.11" rx="1.5" fill="url(#stats-bars)"><title>2026-06-28 to 2026-07-04: 125 contributions</title></rect>
+<rect x="603.34" y="324.51" width="4.50" height="53.49" rx="1.5" fill="url(#stats-bars)"><title>2026-07-05 to 2026-07-11: 80 contributions</title></rect>
+<rect x="610.04" y="335.81" width="4.50" height="42.19" rx="1.5" fill="url(#stats-bars)"><title>2026-07-12 to 2026-07-18: 57 contributions</title></rect>
+<rect x="616.74" y="321.27" width="4.50" height="56.73" rx="1.5" fill="url(#stats-bars)"><title>2026-07-19 to 2026-07-25: 87 contributions</title></rect>
+<rect x="623.43" y="339.50" width="4.50" height="38.50" rx="1.5" fill="url(#stats-bars)"><title>2026-07-26 to 2026-08-01: 50 contributions</title></rect>
+<rect x="630.13" y="284.00" width="4.50" height="94.00" rx="1.5" fill="url(#stats-bars)"><title>2026-08-02 to 2026-08-08: 179 contributions</title></rect>
+<rect x="636.83" y="296.11" width="4.50" height="81.89" rx="1.5" fill="url(#stats-bars)"><title>2026-08-09 to 2026-08-15: 147 contributions</title></rect>
+<rect x="643.53" y="302.05" width="4.50" height="75.95" rx="1.5" fill="url(#stats-bars)"><title>2026-08-16 to 2026-08-22: 132 contributions</title></rect>
+<rect x="650.23" y="303.67" width="4.50" height="74.33" rx="1.5" fill="url(#stats-bars)"><title>2026-08-23 to 2026-08-29: 128 contributions</title></rect>
+<rect x="656.92" y="312.86" width="4.50" height="65.14" rx="1.5" fill="url(#stats-bars)"><title>2026-08-30 to 2026-09-05: 106 contributions</title></rect>
+<rect x="663.62" y="288.83" width="4.50" height="89.17" rx="1.5" fill="url(#stats-bars)"><title>2026-09-06 to 2026-09-12: 166 contributions</title></rect>
+<rect x="670.32" y="322.19" width="4.50" height="55.81" rx="1.5" fill="url(#stats-bars)"><title>2026-09-13 to 2026-09-19: 85 contributions</title></rect>
+<rect x="677.02" y="296.50" width="4.50" height="81.50" rx="1.5" fill="url(#stats-bars)"><title>2026-09-20 to 2026-09-26: 146 contributions</title></rect>
+<rect x="683.72" y="327.83" width="4.50" height="50.17" rx="1.5" fill="url(#stats-bars)"><title>2026-09-27 to 2026-10-03: 73 contributions</title></rect>
+<rect x="690.42" y="297.67" width="4.50" height="80.33" rx="1.5" fill="url(#stats-bars)"><title>2026-10-04 to 2026-10-10: 143 contributions</title></rect>
+<rect x="697.11" y="318.11" width="4.50" height="59.89" rx="1.5" fill="url(#stats-bars)"><title>2026-10-11 to 2026-10-17: 94 contributions</title></rect>
+<rect x="703.81" y="302.45" width="4.50" height="75.55" rx="1.5" fill="url(#stats-bars)"><title>2026-10-18 to 2026-10-24: 131 contributions</title></rect>
+<rect x="710.51" y="312.43" width="4.50" height="65.57" rx="1.5" fill="url(#stats-bars)"><title>2026-10-25 to 2026-10-31: 107 contributions</title></rect>
+<rect x="717.21" y="300.84" width="4.50" height="77.16" rx="1.5" fill="url(#stats-bars)"><title>2026-11-01 to 2026-11-07: 135 contributions</title></rect>
+<rect x="723.91" y="315.03" width="4.50" height="62.97" rx="1.5" fill="url(#stats-bars)"><title>2026-11-08 to 2026-11-14: 101 contributions</title></rect>
+<rect x="730.60" y="298.07" width="4.50" height="79.93" rx="1.5" fill="url(#stats-bars)"><title>2026-11-15 to 2026-11-21: 142 contributions</title></rect>
+<rect x="737.30" y="342.24" width="4.50" height="35.76" rx="1.5" fill="url(#stats-bars)"><title>2026-11-22 to 2026-11-22: 45 contributions</title></rect>
+<text x="389" y="405" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8098a8" >NOV &#x27;25</text>
+<text x="744" y="405" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8098a8" text-anchor="end">NOV &#x27;26</text>
+<rect x="32" y="460" width="358" height="114" rx="16" fill="#111b28" stroke="#273447"/>
+<g transform="translate(54 482) scale(0.91667)" fill="none" stroke="#e8d59c" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2-5.6-3-5.6 3 1.1-6.2L3 9.6l6.2-.9Z"/></g>
+<text x="90" y="500" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="19" font-weight="400" fill="#aebdd0" >Stars earned</text>
+<text x="54" y="551" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="38" font-weight="550" fill="#eef5fc" >3</text>
+<path d="M342 548h24" stroke="#e8d59c" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<rect x="410" y="460" width="358" height="114" rx="16" fill="#111b28" stroke="#273447"/>
+<g transform="translate(432 482) scale(0.91667)" fill="none" stroke="#b9a8f3" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 18.5A2.5 2.5 0 0 1 7.5 16H20M7.5 3H20v18H7.5A2.5 2.5 0 0 1 5 18.5v-13A2.5 2.5 0 0 1 7.5 3Z"/><path d="M9 7h5"/></g>
+<text x="468" y="500" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="19" font-weight="400" fill="#aebdd0" >Public repos</text>
+<text x="432" y="551" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="38" font-weight="550" fill="#eef5fc" >3</text>
+<path d="M720 548h24" stroke="#b9a8f3" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<rect x="32" y="594" width="358" height="114" rx="16" fill="#111b28" stroke="#273447"/>
+<g transform="translate(54 616) scale(0.91667)" fill="none" stroke="#93cfec" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21v-2a5 5 0 0 1 5-5h3a5 5 0 0 1 5 5v2M18 14a5 5 0 0 1 3 5v2"/><circle cx="9.5" cy="6.5" r="3.5"/><path d="M17 3a3.5 3.5 0 0 1 0 7"/></g>
+<text x="90" y="634" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="19" font-weight="400" fill="#aebdd0" >Followers</text>
+<text x="54" y="685" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="38" font-weight="550" fill="#eef5fc" >2</text>
+<path d="M342 682h24" stroke="#93cfec" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<rect x="410" y="594" width="358" height="114" rx="16" fill="#111b28" stroke="#273447"/>
+<g transform="translate(432 616) scale(0.91667)" fill="none" stroke="#91d9ba" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6.5" r="3.5"/><path d="M4.5 21v-2a5 5 0 0 1 5-5h5a5 5 0 0 1 5 5v2"/></g>
+<text x="468" y="634" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="19" font-weight="400" fill="#aebdd0" >Following</text>
+<text x="432" y="685" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="38" font-weight="550" fill="#eef5fc" >5</text>
+<path d="M720 682h24" stroke="#91d9ba" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+<rect x="32" y="728" width="736" height="102" rx="16" fill="#131c29" stroke="#2a3648"/>
+<rect x="56" y="755" width="43" height="43" rx="10" fill="#f1e05a" fill-opacity=".12" stroke="#f1e05a" stroke-opacity=".3"/>
+<text x="77.5" y="783" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="600" fill="#f1e05a" text-anchor="middle">JS</text>
+<text x="116" y="757" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="13" font-weight="400" fill="#96a7be" letter-spacing="1.5">TOP LANGUAGE</text>
+<text x="115" y="791" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="550" fill="#ebf0f7" >JavaScript</text>
+<text x="736" y="786" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="29" font-weight="500" fill="#f1e05a" text-anchor="end">93.7%</text>
+<rect x="116" y="806" width="620" height="4" rx="2" fill="#253245"/>
+<g clip-path="url(#stats-language-clip)">
+<rect x="116.000" y="806" width="581.081" height="4" fill="#f1e05a"><title>JavaScript: 3,108,445 bytes</title></rect>
+<rect x="697.081" y="806" width="26.469" height="4" fill="#b9a0ff"><title>CSS: 141,592 bytes</title></rect>
+<rect x="723.550" y="806" width="12.450" height="4" fill="#ee8b78"><title>HTML: 66,600 bytes</title></rect>
+</g>
+</g>
 </svg>

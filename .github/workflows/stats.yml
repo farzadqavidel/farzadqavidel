@@ -1,39 +1,51 @@
-name: Update README stats
+name: Update GitHub stats
 
 on:
   push:
-    branches: [main]       
+    branches: [main]
+    paths:
+      - ".github/workflows/stats.yml"
+      - ".github/workflows/generate_stats.py"
   schedule:
-    - cron: "0 3 * * *"    
-  workflow_dispatch:   
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: github-stats-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out main
+        uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
 
       - name: Generate stats SVG
         env:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/workflows/generate_stats.py
+        run: python .github/workflows/generate_stats.py
 
-      - name: Commit SVG
+      - name: Commit generated stats
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub stats card [skip ci]" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update GitHub stats [skip ci]" -m "Co-Authored-By: Claude Code <noreply@anthropic.com>"
           git pull --rebase origin main
           git push origin HEAD:main
