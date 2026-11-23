@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="402" viewBox="0 0 800 804" fill="none" role="img" aria-labelledby="stats-title stats-desc">
 <title id="stats-title">Farzad Qavidel — GitHub overview</title>
-<desc id="stats-desc">2,876 GitHub contributions from 2025-11-23 through 2026-11-22; 3 stars, 3 public repositories, 2 followers, 5 following. Top language by bytes in owned, non-fork public repositories: JavaScript, 93.7%. Contributions include more than commits. Each bar represents up to seven days.</desc>
+<desc id="stats-desc">2,927 GitHub contributions from 2025-11-24 through 2026-11-23; 3 stars, 3 public repositories, 2 followers, 5 following. Top language by bytes in owned, non-fork public repositories: JavaScript, 91.5%. Contributions include more than commits. Each bar represents up to seven days.</desc>
 <defs><linearGradient id="stats-bg" x1="0" y1="0" x2="800" y2="804" gradientUnits="userSpaceOnUse"><stop stop-color="#101b27"/><stop offset=".48" stop-color="#0c131e"/><stop offset="1" stop-color="#101421"/></linearGradient>
 <linearGradient id="stats-border" x1="0" y1="0" x2="800" y2="804" gradientUnits="userSpaceOnUse"><stop stop-color="#405967"/><stop offset=".4" stop-color="#26374b"/><stop offset="1" stop-color="#30344b"/></linearGradient>
 <linearGradient id="stats-bars" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a7f3da"/><stop offset="1" stop-color="#54acac"/></linearGradient>
@@ -21,63 +21,63 @@
 <rect x="32" y="216" width="736" height="224" rx="18" fill="#101d29" stroke="#283b4b"/>
 <text x="56" y="252" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="500" fill="#9fbdc5" letter-spacing="1.8">CONTRIBUTIONS</text>
 <text x="744" y="252" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="13" font-weight="400" fill="#83adad" text-anchor="end" letter-spacing="1">LAST 365 DAYS</text>
-<text x="52" y="344" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="78" font-weight="600" fill="#e1fff3" letter-spacing="-3">2,876</text>
+<text x="52" y="344" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="78" font-weight="600" fill="#e1fff3" letter-spacing="-3">2,927</text>
 <text x="56" y="376" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="400" fill="#a1b3c8" >A year of building.</text>
-<text x="56" y="413" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8498ae" >23 NOV 2025 — 22 NOV 2026</text>
+<text x="56" y="413" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8498ae" >24 NOV 2025 — 23 NOV 2026</text>
 <path d="M389 378H744" stroke="#2b404e"/>
-<rect x="389.00" y="370.32" width="4.50" height="7.68" rx="1.5" fill="url(#stats-bars)"><title>2025-11-23 to 2025-11-29: 5 contributions</title></rect>
-<rect x="395.70" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2025-11-30 to 2025-12-06: 0 contributions</title></rect>
-<rect x="402.40" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2025-12-07 to 2025-12-13: 0 contributions</title></rect>
-<rect x="409.09" y="373.00" width="4.50" height="5.00" rx="1.5" fill="url(#stats-bars)"><title>2025-12-14 to 2025-12-20: 1 contributions</title></rect>
-<rect x="415.79" y="364.66" width="4.50" height="13.34" rx="1.5" fill="url(#stats-bars)"><title>2025-12-21 to 2025-12-27: 11 contributions</title></rect>
-<rect x="422.49" y="368.28" width="4.50" height="9.72" rx="1.5" fill="url(#stats-bars)"><title>2025-12-28 to 2026-01-03: 7 contributions</title></rect>
-<rect x="429.19" y="363.01" width="4.50" height="14.99" rx="1.5" fill="url(#stats-bars)"><title>2026-01-04 to 2026-01-10: 13 contributions</title></rect>
-<rect x="435.89" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-01-11 to 2026-01-17: 0 contributions</title></rect>
-<rect x="442.58" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-01-18 to 2026-01-24: 0 contributions</title></rect>
-<rect x="449.28" y="363.01" width="4.50" height="14.99" rx="1.5" fill="url(#stats-bars)"><title>2026-01-25 to 2026-01-31: 13 contributions</title></rect>
-<rect x="455.98" y="342.24" width="4.50" height="35.76" rx="1.5" fill="url(#stats-bars)"><title>2026-02-01 to 2026-02-07: 45 contributions</title></rect>
-<rect x="462.68" y="371.43" width="4.50" height="6.57" rx="1.5" fill="url(#stats-bars)"><title>2026-02-08 to 2026-02-14: 4 contributions</title></rect>
-<rect x="469.38" y="369.27" width="4.50" height="8.73" rx="1.5" fill="url(#stats-bars)"><title>2026-02-15 to 2026-02-21: 6 contributions</title></rect>
-<rect x="476.08" y="326.39" width="4.50" height="51.61" rx="1.5" fill="url(#stats-bars)"><title>2026-02-22 to 2026-02-28: 76 contributions</title></rect>
-<rect x="482.77" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-01 to 2026-03-07: 0 contributions</title></rect>
-<rect x="489.47" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-08 to 2026-03-14: 0 contributions</title></rect>
-<rect x="496.17" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-15 to 2026-03-21: 0 contributions</title></rect>
-<rect x="502.87" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-22 to 2026-03-28: 0 contributions</title></rect>
-<rect x="509.57" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-29 to 2026-04-04: 0 contributions</title></rect>
-<rect x="516.26" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-05 to 2026-04-11: 0 contributions</title></rect>
-<rect x="522.96" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-12 to 2026-04-18: 0 contributions</title></rect>
-<rect x="529.66" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-19 to 2026-04-25: 0 contributions</title></rect>
-<rect x="536.36" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-26 to 2026-05-02: 0 contributions</title></rect>
-<rect x="543.06" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-05-03 to 2026-05-09: 0 contributions</title></rect>
-<rect x="549.75" y="373.00" width="4.50" height="5.00" rx="1.5" fill="url(#stats-bars)"><title>2026-05-10 to 2026-05-16: 2 contributions</title></rect>
-<rect x="556.45" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-05-17 to 2026-05-23: 0 contributions</title></rect>
-<rect x="563.15" y="372.63" width="4.50" height="5.37" rx="1.5" fill="url(#stats-bars)"><title>2026-05-24 to 2026-05-30: 3 contributions</title></rect>
-<rect x="569.85" y="306.95" width="4.50" height="71.05" rx="1.5" fill="url(#stats-bars)"><title>2026-05-31 to 2026-06-06: 120 contributions</title></rect>
-<rect x="576.55" y="336.33" width="4.50" height="41.67" rx="1.5" fill="url(#stats-bars)"><title>2026-06-07 to 2026-06-13: 56 contributions</title></rect>
-<rect x="583.25" y="354.30" width="4.50" height="23.70" rx="1.5" fill="url(#stats-bars)"><title>2026-06-14 to 2026-06-20: 25 contributions</title></rect>
-<rect x="589.94" y="351.71" width="4.50" height="26.29" rx="1.5" fill="url(#stats-bars)"><title>2026-06-21 to 2026-06-27: 29 contributions</title></rect>
-<rect x="596.64" y="304.89" width="4.50" height="73.11" rx="1.5" fill="url(#stats-bars)"><title>2026-06-28 to 2026-07-04: 125 contributions</title></rect>
-<rect x="603.34" y="324.51" width="4.50" height="53.49" rx="1.5" fill="url(#stats-bars)"><title>2026-07-05 to 2026-07-11: 80 contributions</title></rect>
-<rect x="610.04" y="335.81" width="4.50" height="42.19" rx="1.5" fill="url(#stats-bars)"><title>2026-07-12 to 2026-07-18: 57 contributions</title></rect>
-<rect x="616.74" y="321.27" width="4.50" height="56.73" rx="1.5" fill="url(#stats-bars)"><title>2026-07-19 to 2026-07-25: 87 contributions</title></rect>
-<rect x="623.43" y="339.50" width="4.50" height="38.50" rx="1.5" fill="url(#stats-bars)"><title>2026-07-26 to 2026-08-01: 50 contributions</title></rect>
-<rect x="630.13" y="284.00" width="4.50" height="94.00" rx="1.5" fill="url(#stats-bars)"><title>2026-08-02 to 2026-08-08: 179 contributions</title></rect>
-<rect x="636.83" y="296.11" width="4.50" height="81.89" rx="1.5" fill="url(#stats-bars)"><title>2026-08-09 to 2026-08-15: 147 contributions</title></rect>
-<rect x="643.53" y="302.05" width="4.50" height="75.95" rx="1.5" fill="url(#stats-bars)"><title>2026-08-16 to 2026-08-22: 132 contributions</title></rect>
-<rect x="650.23" y="303.67" width="4.50" height="74.33" rx="1.5" fill="url(#stats-bars)"><title>2026-08-23 to 2026-08-29: 128 contributions</title></rect>
-<rect x="656.92" y="312.86" width="4.50" height="65.14" rx="1.5" fill="url(#stats-bars)"><title>2026-08-30 to 2026-09-05: 106 contributions</title></rect>
-<rect x="663.62" y="288.83" width="4.50" height="89.17" rx="1.5" fill="url(#stats-bars)"><title>2026-09-06 to 2026-09-12: 166 contributions</title></rect>
-<rect x="670.32" y="322.19" width="4.50" height="55.81" rx="1.5" fill="url(#stats-bars)"><title>2026-09-13 to 2026-09-19: 85 contributions</title></rect>
-<rect x="677.02" y="296.50" width="4.50" height="81.50" rx="1.5" fill="url(#stats-bars)"><title>2026-09-20 to 2026-09-26: 146 contributions</title></rect>
-<rect x="683.72" y="327.83" width="4.50" height="50.17" rx="1.5" fill="url(#stats-bars)"><title>2026-09-27 to 2026-10-03: 73 contributions</title></rect>
-<rect x="690.42" y="297.67" width="4.50" height="80.33" rx="1.5" fill="url(#stats-bars)"><title>2026-10-04 to 2026-10-10: 143 contributions</title></rect>
-<rect x="697.11" y="318.11" width="4.50" height="59.89" rx="1.5" fill="url(#stats-bars)"><title>2026-10-11 to 2026-10-17: 94 contributions</title></rect>
-<rect x="703.81" y="302.45" width="4.50" height="75.55" rx="1.5" fill="url(#stats-bars)"><title>2026-10-18 to 2026-10-24: 131 contributions</title></rect>
-<rect x="710.51" y="312.43" width="4.50" height="65.57" rx="1.5" fill="url(#stats-bars)"><title>2026-10-25 to 2026-10-31: 107 contributions</title></rect>
-<rect x="717.21" y="300.84" width="4.50" height="77.16" rx="1.5" fill="url(#stats-bars)"><title>2026-11-01 to 2026-11-07: 135 contributions</title></rect>
-<rect x="723.91" y="315.03" width="4.50" height="62.97" rx="1.5" fill="url(#stats-bars)"><title>2026-11-08 to 2026-11-14: 101 contributions</title></rect>
-<rect x="730.60" y="298.07" width="4.50" height="79.93" rx="1.5" fill="url(#stats-bars)"><title>2026-11-15 to 2026-11-21: 142 contributions</title></rect>
-<rect x="737.30" y="341.69" width="4.50" height="36.31" rx="1.5" fill="url(#stats-bars)"><title>2026-11-22 to 2026-11-22: 46 contributions</title></rect>
+<rect x="389.00" y="370.92" width="4.50" height="7.08" rx="1.5" fill="url(#stats-bars)"><title>2025-11-24 to 2025-11-30: 5 contributions</title></rect>
+<rect x="395.70" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2025-12-01 to 2025-12-07: 0 contributions</title></rect>
+<rect x="402.40" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2025-12-08 to 2025-12-14: 0 contributions</title></rect>
+<rect x="409.09" y="373.00" width="4.50" height="5.00" rx="1.5" fill="url(#stats-bars)"><title>2025-12-15 to 2025-12-21: 1 contributions</title></rect>
+<rect x="415.79" y="364.93" width="4.50" height="13.07" rx="1.5" fill="url(#stats-bars)"><title>2025-12-22 to 2025-12-28: 12 contributions</title></rect>
+<rect x="422.49" y="366.49" width="4.50" height="11.51" rx="1.5" fill="url(#stats-bars)"><title>2025-12-29 to 2026-01-04: 10 contributions</title></rect>
+<rect x="429.19" y="367.31" width="4.50" height="10.69" rx="1.5" fill="url(#stats-bars)"><title>2026-01-05 to 2026-01-11: 9 contributions</title></rect>
+<rect x="435.89" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-01-12 to 2026-01-18: 0 contributions</title></rect>
+<rect x="442.58" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-01-19 to 2026-01-25: 0 contributions</title></rect>
+<rect x="449.28" y="364.18" width="4.50" height="13.82" rx="1.5" fill="url(#stats-bars)"><title>2026-01-26 to 2026-02-01: 13 contributions</title></rect>
+<rect x="455.98" y="345.03" width="4.50" height="32.97" rx="1.5" fill="url(#stats-bars)"><title>2026-02-02 to 2026-02-08: 45 contributions</title></rect>
+<rect x="462.68" y="371.94" width="4.50" height="6.06" rx="1.5" fill="url(#stats-bars)"><title>2026-02-09 to 2026-02-15: 4 contributions</title></rect>
+<rect x="469.38" y="363.44" width="4.50" height="14.56" rx="1.5" fill="url(#stats-bars)"><title>2026-02-16 to 2026-02-22: 14 contributions</title></rect>
+<rect x="476.08" y="333.98" width="4.50" height="44.02" rx="1.5" fill="url(#stats-bars)"><title>2026-02-23 to 2026-03-01: 68 contributions</title></rect>
+<rect x="482.77" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-02 to 2026-03-08: 0 contributions</title></rect>
+<rect x="489.47" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-09 to 2026-03-15: 0 contributions</title></rect>
+<rect x="496.17" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-16 to 2026-03-22: 0 contributions</title></rect>
+<rect x="502.87" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-23 to 2026-03-29: 0 contributions</title></rect>
+<rect x="509.57" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-03-30 to 2026-04-05: 0 contributions</title></rect>
+<rect x="516.26" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-06 to 2026-04-12: 0 contributions</title></rect>
+<rect x="522.96" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-13 to 2026-04-19: 0 contributions</title></rect>
+<rect x="529.66" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-20 to 2026-04-26: 0 contributions</title></rect>
+<rect x="536.36" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-04-27 to 2026-05-03: 0 contributions</title></rect>
+<rect x="543.06" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-05-04 to 2026-05-10: 0 contributions</title></rect>
+<rect x="549.75" y="373.00" width="4.50" height="5.00" rx="1.5" fill="url(#stats-bars)"><title>2026-05-11 to 2026-05-17: 2 contributions</title></rect>
+<rect x="556.45" y="375.00" width="4.50" height="3.00" rx="1.5" fill="#253b48"><title>2026-05-18 to 2026-05-24: 0 contributions</title></rect>
+<rect x="563.15" y="354.94" width="4.50" height="23.06" rx="1.5" fill="url(#stats-bars)"><title>2026-05-25 to 2026-05-31: 27 contributions</title></rect>
+<rect x="569.85" y="319.13" width="4.50" height="58.87" rx="1.5" fill="url(#stats-bars)"><title>2026-06-01 to 2026-06-07: 103 contributions</title></rect>
+<rect x="576.55" y="339.57" width="4.50" height="38.43" rx="1.5" fill="url(#stats-bars)"><title>2026-06-08 to 2026-06-14: 56 contributions</title></rect>
+<rect x="583.25" y="359.31" width="4.50" height="18.69" rx="1.5" fill="url(#stats-bars)"><title>2026-06-15 to 2026-06-21: 20 contributions</title></rect>
+<rect x="589.94" y="346.06" width="4.50" height="31.94" rx="1.5" fill="url(#stats-bars)"><title>2026-06-22 to 2026-06-28: 43 contributions</title></rect>
+<rect x="596.64" y="299.99" width="4.50" height="78.01" rx="1.5" fill="url(#stats-bars)"><title>2026-06-29 to 2026-07-05: 154 contributions</title></rect>
+<rect x="603.34" y="331.74" width="4.50" height="46.26" rx="1.5" fill="url(#stats-bars)"><title>2026-07-06 to 2026-07-12: 73 contributions</title></rect>
+<rect x="610.04" y="331.74" width="4.50" height="46.26" rx="1.5" fill="url(#stats-bars)"><title>2026-07-13 to 2026-07-19: 73 contributions</title></rect>
+<rect x="616.74" y="334.43" width="4.50" height="43.57" rx="1.5" fill="url(#stats-bars)"><title>2026-07-20 to 2026-07-26: 67 contributions</title></rect>
+<rect x="623.43" y="338.14" width="4.50" height="39.86" rx="1.5" fill="url(#stats-bars)"><title>2026-07-27 to 2026-08-02: 59 contributions</title></rect>
+<rect x="630.13" y="284.00" width="4.50" height="94.00" rx="1.5" fill="url(#stats-bars)"><title>2026-08-03 to 2026-08-09: 201 contributions</title></rect>
+<rect x="636.83" y="305.02" width="4.50" height="72.98" rx="1.5" fill="url(#stats-bars)"><title>2026-08-10 to 2026-08-16: 140 contributions</title></rect>
+<rect x="643.53" y="308.34" width="4.50" height="69.66" rx="1.5" fill="url(#stats-bars)"><title>2026-08-17 to 2026-08-23: 131 contributions</title></rect>
+<rect x="650.23" y="305.39" width="4.50" height="72.61" rx="1.5" fill="url(#stats-bars)"><title>2026-08-24 to 2026-08-30: 139 contributions</title></rect>
+<rect x="656.92" y="319.93" width="4.50" height="58.07" rx="1.5" fill="url(#stats-bars)"><title>2026-08-31 to 2026-09-06: 101 contributions</title></rect>
+<rect x="663.62" y="303.93" width="4.50" height="74.07" rx="1.5" fill="url(#stats-bars)"><title>2026-09-07 to 2026-09-13: 143 contributions</title></rect>
+<rect x="670.32" y="316.36" width="4.50" height="61.64" rx="1.5" fill="url(#stats-bars)"><title>2026-09-14 to 2026-09-20: 110 contributions</title></rect>
+<rect x="677.02" y="312.49" width="4.50" height="65.51" rx="1.5" fill="url(#stats-bars)"><title>2026-09-21 to 2026-09-27: 120 contributions</title></rect>
+<rect x="683.72" y="331.30" width="4.50" height="46.70" rx="1.5" fill="url(#stats-bars)"><title>2026-09-28 to 2026-10-04: 74 contributions</title></rect>
+<rect x="690.42" y="303.93" width="4.50" height="74.07" rx="1.5" fill="url(#stats-bars)"><title>2026-10-05 to 2026-10-11: 143 contributions</title></rect>
+<rect x="697.11" y="312.87" width="4.50" height="65.13" rx="1.5" fill="url(#stats-bars)"><title>2026-10-12 to 2026-10-18: 119 contributions</title></rect>
+<rect x="703.81" y="309.84" width="4.50" height="68.16" rx="1.5" fill="url(#stats-bars)"><title>2026-10-19 to 2026-10-25: 127 contributions</title></rect>
+<rect x="710.51" y="313.64" width="4.50" height="64.36" rx="1.5" fill="url(#stats-bars)"><title>2026-10-26 to 2026-11-01: 117 contributions</title></rect>
+<rect x="717.21" y="310.59" width="4.50" height="67.41" rx="1.5" fill="url(#stats-bars)"><title>2026-11-02 to 2026-11-08: 125 contributions</title></rect>
+<rect x="723.91" y="322.37" width="4.50" height="55.63" rx="1.5" fill="url(#stats-bars)"><title>2026-11-09 to 2026-11-15: 95 contributions</title></rect>
+<rect x="730.60" y="291.33" width="4.50" height="86.67" rx="1.5" fill="url(#stats-bars)"><title>2026-11-16 to 2026-11-22: 179 contributions</title></rect>
+<rect x="737.30" y="370.92" width="4.50" height="7.08" rx="1.5" fill="url(#stats-bars)"><title>2026-11-23 to 2026-11-23: 5 contributions</title></rect>
 <text x="389" y="405" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8098a8" >NOV &#x27;25</text>
 <text x="744" y="405" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="12" font-weight="400" fill="#8098a8" text-anchor="end">NOV &#x27;26</text>
 <rect x="32" y="460" width="358" height="114" rx="16" fill="#111b28" stroke="#273447"/>
@@ -105,12 +105,14 @@
 <text x="77.5" y="783" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="600" fill="#f1e05a" text-anchor="middle">JS</text>
 <text x="116" y="757" font-family="ui-monospace, DejaVu Sans Mono, Consolas, monospace" font-size="13" font-weight="400" fill="#96a7be" letter-spacing="1.5">TOP LANGUAGE</text>
 <text x="115" y="791" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26" font-weight="550" fill="#ebf0f7" >JavaScript</text>
-<text x="736" y="786" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="29" font-weight="500" fill="#f1e05a" text-anchor="end">93.7%</text>
+<text x="736" y="786" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="29" font-weight="500" fill="#f1e05a" text-anchor="end">91.5%</text>
 <rect x="116" y="806" width="620" height="4" rx="2" fill="#253245"/>
 <g clip-path="url(#stats-language-clip)">
-<rect x="116.000" y="806" width="581.081" height="4" fill="#f1e05a"><title>JavaScript: 3,108,445 bytes</title></rect>
-<rect x="697.081" y="806" width="26.469" height="4" fill="#b9a0ff"><title>CSS: 141,592 bytes</title></rect>
-<rect x="723.550" y="806" width="12.450" height="4" fill="#ee8b78"><title>HTML: 66,600 bytes</title></rect>
+<rect x="116.000" y="806" width="567.058" height="4" fill="#f1e05a"><title>JavaScript: 3,192,474 bytes</title></rect>
+<rect x="683.058" y="806" width="36.948" height="4" fill="#b9a0ff"><title>CSS: 208,014 bytes</title></rect>
+<rect x="720.006" y="806" width="15.779" height="4" fill="#ee8b78"><title>HTML: 88,834 bytes</title></rect>
+<rect x="735.785" y="806" width="0.132" height="4" fill="#7ce0bb"><title>Shell: 742 bytes</title></rect>
+<rect x="735.917" y="806" width="0.083" height="4" fill="#8fa4b9"><title>Batchfile: 467 bytes</title></rect>
 </g>
 </g>
 </svg>
